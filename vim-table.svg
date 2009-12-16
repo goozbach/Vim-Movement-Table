@@ -320,6 +320,69 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3783"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3783-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3783-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3830"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3855"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3880"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3905"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3930"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3961"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -332,7 +395,7 @@
      inkscape:cx="500"
      inkscape:cy="500"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      showguides="true"
      inkscape:window-width="1920"
@@ -365,7 +428,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="keys"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-52.362183)">
@@ -391,57 +454,57 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="625.5"
+       x="628.4375"
        y="562.36218"
        id="text5816-6-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-0"
-         x="625.5"
+         x="628.4375"
          y="562.36218">w</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="209.5"
+       x="199.5"
        y="518.36218"
        id="text5816-6-13"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-01"
-         x="209.5"
+         x="199.5"
          y="518.36218">-</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="499.98132"
-       y="642.36218"
+       y="642.36224"
        id="text5816-6-63"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-3"
          x="499.98132"
-         y="642.36218">j</tspan></text>
+         y="642.36224">j</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="721.5"
+       x="730.3125"
        y="562.36218"
        id="text5816-6-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-23"
-         x="721.5"
+         x="730.3125"
          y="562.36218">)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="673.5"
+       x="679.375"
        y="562.36218"
        id="text5816-6-55"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-77"
-         x="673.5"
+         x="679.375"
          y="562.36218">$</tspan></text>
     <text
        xml:space="preserve"
@@ -457,61 +520,61 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="419.5"
+       x="419.50003"
        y="564.50995"
        id="text5816-6-31"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-5"
-         x="419.5"
+         x="419.50003"
          y="564.50995">h</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="325.5"
+       x="319.50003"
        y="564.50995"
        id="text5816-6-34"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-30"
-         x="325.5"
+         x="319.50003"
          y="564.50995">^</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="277.5"
+       x="269.5"
        y="564.50995"
        id="text5816-6-89"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-49"
-         x="277.5"
+         x="269.5"
          y="564.50995">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="231.5"
+       x="219.5"
        y="564.50995"
        id="text5816-6-20"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-47"
-         x="231.5"
+         x="219.5"
          y="564.50995">(</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="185.5"
+       x="169.5"
        y="564.50995"
        id="text5816-6-50"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-018"
-         x="185.5"
+         x="169.5"
          y="564.50995">{</tspan></text>
     <g
        id="g6319"
-       transform="translate(71.192247,-62)">
+       transform="translate(71.192247,-45.999997)">
       <text
          sodipodi:linespacing="125%"
          id="text5816-6"
@@ -548,7 +611,7 @@
     </g>
     <g
        id="g6373"
-       transform="translate(11.192247,-23.878234)">
+       transform="translate(11.192247,-13.211545)">
       <text
          sodipodi:linespacing="125%"
          id="text5816-5"
@@ -585,7 +648,7 @@
     </g>
     <g
        id="g6229"
-       transform="translate(-78,0)">
+       transform="translate(-66.000012,0)">
       <text
          sodipodi:linespacing="125%"
          id="text5816-6-88"
@@ -612,16 +675,18 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="499.98132"
-       y="344.36218"
+       y="332.36224"
        id="text5812"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"><desc
+         id="desc2963">Move to the top of the document. (first character of first line)</desc><title
+         id="title2961">Top Of Document</title><tspan
          sodipodi:role="line"
          id="tspan5814"
          x="499.98132"
-         y="344.36218">gg</tspan></text>
+         y="332.36224">gg</tspan></text>
     <g
        id="g6289"
-       transform="translate(1.3777941,234)">
+       transform="translate(1.3777941,225.45514)">
       <g
          id="g5903">
         <text
@@ -672,7 +737,7 @@
          y="486.36218">k</tspan></text>
     <g
        id="g6260"
-       transform="translate(11.192247,232)">
+       transform="translate(11.192247,226.78846)">
       <text
          sodipodi:linespacing="125%"
          id="text5824-5"
@@ -709,7 +774,7 @@
     </g>
     <g
        id="g6381"
-       transform="translate(1.1922472,-30)">
+       transform="translate(1.1922472,-24.544858)">
       <text
          sodipodi:linespacing="125%"
          id="text5816-6-85"
@@ -747,13 +812,147 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="372.07812"
+       x="369.50003"
        y="564.50995"
        id="text5816-6-34-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-30-3"
-         x="372.07812"
+         x="369.50003"
          y="564.50995">b</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="labels">
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+       x="232.37312"
+       y="272.03229"
+       id="text2965"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="232.37312"
+         y="272.03229"
+         id="tspan2969">Start of the File</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+       x="160"
+       y="323.3656"
+       id="text2965-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="160"
+         y="323.3656"
+         id="tspan2969-3">Back (up) a Full Screen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+       x="304.32626"
+       y="426.03223"
+       id="text2965-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="304.32626"
+         y="426.03223"
+         id="tspan2969-1">Up One Line</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+       x="160"
+       y="374.69891"
+       id="text2965-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="160"
+         y="374.69891"
+         id="tspan2969-19">Back (up) a Half Screen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+       x="78.383255"
+       y="740.23505"
+       id="text2965-6-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
+         sodipodi:role="line"
+         x="78.383255"
+         y="740.23505"
+         id="tspan2969-19-1"
+         style="stroke-width:2">Forward (right) One Character</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+       x="114.40115"
+       y="776.2536"
+       id="text2965-6-5-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
+         sodipodi:role="line"
+         x="114.40115"
+         y="776.2536"
+         id="tspan2969-19-1-8"
+         style="stroke-width:2">Forward One Word</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+       x="151.32089"
+       y="813.17389"
+       id="text2965-6-5-7-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
+         sodipodi:role="line"
+         x="151.32089"
+         y="813.17389"
+         id="tspan2969-19-1-8-6"
+         style="stroke-width:2">Forward to End of Line</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+       x="186.4377"
+       y="848.29004"
+       id="text2965-6-5-7-1-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
+         sodipodi:role="line"
+         x="186.4377"
+         y="848.29004"
+         id="tspan2969-19-1-8-6-4"
+         style="stroke-width:2">Forward to End of Sentance </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+       x="335.30579"
+       y="881.87714"
+       id="text2965-6-5-7-1-8-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
+         sodipodi:role="line"
+         x="341.30188"
+         y="881.87714"
+         style="text-align:center;text-anchor:middle;stroke-width:2"
+         id="tspan3947">Forward (down) to </tspan><tspan
+         sodipodi:role="line"
+         x="335.30579"
+         y="906.87714"
+         style="text-align:center;text-anchor:middle;stroke-width:2"
+         id="tspan3951">End of Paragraph</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
+       x="92"
+       y="433.43222"
+       id="text2965-2-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="92"
+         y="433.43222"
+         id="tspan2969-1-3">Beginning of</tspan><tspan
+         sodipodi:role="line"
+         x="92"
+         y="458.43222"
+         id="tspan3978">Previous Line</tspan></text>
   </g>
 </svg>
