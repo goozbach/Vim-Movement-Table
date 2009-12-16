@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="vim-table.png">
+   sodipodi:docname="vim-table.svg">
   <defs
      id="defs4">
     <marker
@@ -488,7 +488,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0647059"
-     inkscape:cx="500"
+     inkscape:cx="345.02763"
      inkscape:cy="425"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -519,7 +519,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -574,14 +574,14 @@
          y="568.36218">-</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="553.98132"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       x="554"
        y="692.36224"
        id="text5816-6-63"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-3"
-         x="553.98132"
+         x="554"
          y="692.36224">j</tspan></text>
     <text
        xml:space="preserve"
@@ -671,82 +671,28 @@
          id="tspan5818-0-018"
          x="223.5"
          y="614.50995">{</tspan></text>
-    <g
-       id="g6319"
-       transform="translate(125.19225,4)"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
-      <text
-         sodipodi:linespacing="125%"
-         id="text5816-6"
-         y="842.36218"
-         x="401.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-         xml:space="preserve"><tspan
-           y="842.36218"
-           x="401.5"
-           id="tspan5818-0"
-           sodipodi:role="line">Ò</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5816-6-38"
-         y="842.36218"
-         x="463.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-         xml:space="preserve"><tspan
-           y="842.36218"
-           x="463.5"
-           id="tspan5818-0-20"
-           sodipodi:role="line">g</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5824-5-2"
-         y="836.48395"
-         x="436.01562"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
-         xml:space="preserve"><tspan
-           y="836.48395"
-           x="436.01562"
-           id="tspan5826-2-5"
-           sodipodi:role="line">+</tspan></text>
-    </g>
-    <g
-       id="g6373"
-       transform="translate(65.192247,36.78845)"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
-      <text
-         sodipodi:linespacing="125%"
-         id="text5816-5"
-         y="758.24042"
-         x="461.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-         xml:space="preserve"><tspan
-           y="758.24042"
-           x="461.5"
-           id="tspan5818-4"
-           sodipodi:role="line">Ó</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5816-6-0"
-         y="758.24042"
-         x="523.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-         xml:space="preserve"><tspan
-           y="758.24042"
-           x="523.5"
-           id="tspan5818-0-86"
-           sodipodi:role="line">f</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5824-5-5"
-         y="752.36218"
-         x="496.01562"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
-         xml:space="preserve"><tspan
-           y="752.36218"
-           x="496.01562"
-           id="tspan5826-2-52"
-           sodipodi:role="line">+</tspan></text>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       x="554"
+       y="846.36218"
+       id="text5816-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5818-0"
+         x="554"
+         y="846.36218">Ò¿G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       x="554"
+       y="795.02887"
+       id="text5816-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5818-4"
+         x="554"
+         y="795.02887">Ó¿f</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
@@ -760,8 +706,8 @@
          y="612.36218">}</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="553.98132"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       x="554"
        y="382.36224"
        id="text5812"
        sodipodi:linespacing="125%"><desc
@@ -769,137 +715,52 @@
          id="title2961">Top Of Document</title><tspan
          sodipodi:role="line"
          id="tspan5814"
-         x="553.98132"
+         x="554"
          y="382.36224">gg</tspan></text>
-    <g
-       id="g6289"
-       transform="translate(55.377794,275.45514)"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
-      <g
-         id="g5903"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
-        <text
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-           x="471.02539"
-           y="158.24042"
-           id="text5816"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan5818"
-             x="471.02539"
-             y="158.24042">Ó</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-           x="533.60352"
-           y="158.24042"
-           id="text5820"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan5822"
-             x="533.60352"
-             y="158.24042">b</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
-           x="506.01562"
-           y="152.36218"
-           id="text5824"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan5826"
-             x="506.01562"
-             y="152.36218">+</tspan></text>
-      </g>
-    </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-       x="553.98132"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       x="554"
+       y="433.69556"
+       id="text5816"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5818"
+         x="554"
+         y="433.69556">Ó¿b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       x="554"
        y="536.36218"
        id="text5816-6-29"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-57"
-         x="553.98132"
+         x="554"
          y="536.36218">k</tspan></text>
-    <g
-       id="g6260"
-       transform="translate(65.192247,276.78846)"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
-      <text
-         sodipodi:linespacing="125%"
-         id="text5824-5"
-         y="202.36218"
-         x="496.01562"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
-         xml:space="preserve"><tspan
-           y="202.36218"
-           x="496.01562"
-           id="tspan5826-2"
-           sodipodi:role="line">+</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5816-6-95"
-         y="208.24042"
-         x="523.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-         xml:space="preserve"><tspan
-           y="208.24042"
-           x="523.5"
-           id="tspan5818-0-6"
-           sodipodi:role="line">u</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5816-5-3"
-         y="208.24042"
-         x="461.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-         xml:space="preserve"><tspan
-           y="208.24042"
-           x="461.5"
-           id="tspan5818-4-7"
-           sodipodi:role="line">Ó</tspan></text>
-    </g>
-    <g
-       id="g6381"
-       transform="translate(55.192247,25.45514)"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
-      <text
-         sodipodi:linespacing="125%"
-         id="text5816-6-85"
-         y="718.24042"
-         x="533.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-         xml:space="preserve"><tspan
-           y="718.24042"
-           x="533.5"
-           id="tspan5818-0-26"
-           sodipodi:role="line">d</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5824-5-1"
-         y="712.36218"
-         x="506.01562"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
-         xml:space="preserve"><tspan
-           y="712.36218"
-           x="506.01562"
-           id="tspan5826-2-9"
-           sodipodi:role="line">+</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text5816-5-4"
-         y="718.24042"
-         x="471.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-         xml:space="preserve"><tspan
-           y="718.24042"
-           x="471.5"
-           id="tspan5818-4-8"
-           sodipodi:role="line">Ó</tspan></text>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       x="554"
+       y="485.02887"
+       id="text5816-5-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5818-4-7"
+         x="554"
+         y="485.02887">Ó¿u</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       x="554"
+       y="743.69556"
+       id="text5816-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5818-4-8"
+         x="554"
+         y="743.69556">Ó¿d</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
@@ -1045,47 +906,47 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="616"
+       x="620"
        y="630"
        id="text2965-2-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="616"
+         x="620"
          y="630"
          id="tspan2969-1-1">Down One Line</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="616"
+       x="620"
        y="786.85223"
        id="text2965-2-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="616"
+         x="620"
          y="786.85223"
          id="tspan2969-1-34">End of the File (last line)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="616"
+       x="620"
        y="735.31891"
        id="text2965-2-42"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="616"
+         x="620"
          y="735.31891"
          id="tspan2969-1-7">Forward (down) a Full Screen</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="616"
+       x="620"
        y="683.9856"
        id="text2965-2-08"
        sodipodi:linespacing="125%"
        inkscape:transform-center-x="65.760938"
        inkscape:transform-center-y="-58.347773"><tspan
          sodipodi:role="line"
-         x="616"
+         x="620"
          y="683.9856"
          id="tspan2969-1-78">Forward (down) a Half Screen</tspan></text>
     <text
@@ -1170,7 +1031,7 @@
        xml:space="preserve"
        id="flowRoot4184"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       transform="translate(0,150)"><flowRegion
+       transform="translate(0,162)"><flowRegion
          id="flowRegion4186"><rect
            id="rect4188"
            width="1001.1249"
@@ -1180,17 +1041,17 @@
            style="font-size:56px;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L" /></flowRegion><flowPara
          id="flowPara4190">Vim Movement Table</flowPara></flowRoot>    <path
        style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 220,220 560,0 0,0 0,0 0,0"
+       d="m 220,228 560,0 0,0 0,0 0,0"
        id="path4192" />
     <path
        style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:1.0434984;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 10,918 980,0"
+       d="m 10,908 980,0"
        id="path4194" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4196"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       transform="translate(-88,162)"><flowRegion
+       transform="translate(-78,152)"><flowRegion
          id="flowRegion4198"><rect
            id="rect4200"
            width="800"
@@ -1198,10 +1059,10 @@
            x="100"
            y="760"
            style="font-size:18px;text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara4202">© 2009 Derek Carter -- http://blog.friocorte.com/ some rights reserved</flowPara><flowPara
+         id="flowPara4202">© 2009 Derek Carter -- http://blog.friocorte.com/card/ some rights reserved</flowPara><flowPara
          id="flowPara4206">Licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 License</flowPara><flowPara
          id="flowPara4208">http://creativecommons.org/licenses/by-nc-sa/3.0/us/</flowPara></flowRoot>    <switch
-       transform="matrix(1.6964375,0,0,1.6964375,826,869.73749)"
+       transform="matrix(1.6964375,0,0,1.6964375,818,854.39227)"
        id="switch6">
       <foreignObject
          requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
@@ -1379,7 +1240,7 @@
                  id="g49">
                 <polygon
                    i:knockout="Off"
-                   points="5.251,59.651 5.251,59.651 96.251,59.651 96.251,69.651 5.251,69.651 "
+                   points="96.251,69.651 5.251,69.651 5.251,59.651 5.251,59.651 96.251,59.651 "
                    id="polygon51" />
                 <path
                    i:knockout="Off"
@@ -1422,7 +1283,7 @@
                    style="fill:#ffffff;fill-rule:evenodd"
                    i:knockout="Off"
                    clip-rule="evenodd"
-                   points="26.685,67.546 24.285,67.546 24.285,65.19 26.446,65.19 26.446,64.029 24.285,64.029 24.285,62.226 26.587,62.226 26.587,61.053 22.873,61.053 22.873,68.73 26.685,68.73 "
+                   points="24.285,67.546 24.285,65.19 26.446,65.19 26.446,64.029 24.285,64.029 24.285,62.226 26.587,62.226 26.587,61.053 22.873,61.053 22.873,68.73 26.685,68.73 26.685,67.546 "
                    id="polygon71" />
               </g>
               <g
@@ -1461,7 +1322,7 @@
                    style="fill:#ffffff;fill-rule:evenodd"
                    i:knockout="Off"
                    clip-rule="evenodd"
-                   points="43.259,65.223 44.552,65.223 44.552,68.73 45.963,68.73 45.963,61.063 44.552,61.063 44.552,64.083 43.259,64.083 43.259,61.063 41.848,61.063 41.848,68.73 43.259,68.73 "
+                   points="44.552,65.223 44.552,68.73 45.963,68.73 45.963,61.063 44.552,61.063 44.552,64.083 43.259,64.083 43.259,61.063 41.848,61.063 41.848,68.73 43.259,68.73 43.259,65.223 "
                    id="polygon87" />
               </g>
               <g
@@ -1470,7 +1331,7 @@
                    style="fill:#ffffff;fill-rule:evenodd"
                    i:knockout="Off"
                    clip-rule="evenodd"
-                   points="50.555,61.063 46.309,61.063 46.309,62.171 47.72,62.171 47.72,68.73 49.143,68.73 49.143,62.171 50.555,62.171 "
+                   points="49.143,68.73 49.143,62.171 50.555,62.171 50.555,61.063 46.309,61.063 46.309,62.171 47.72,62.171 47.72,68.73 "
                    id="polygon91" />
               </g>
               <g
@@ -1497,7 +1358,7 @@
                    style="fill:#ffffff;fill-rule:evenodd"
                    i:knockout="Off"
                    clip-rule="evenodd"
-                   points="66.915,67.546 64.514,67.546 64.514,65.19 66.675,65.19 66.675,64.029 64.514,64.029 64.514,62.226 66.817,62.226 66.817,61.053 63.102,61.053 63.102,68.73 66.915,68.73 "
+                   points="64.514,67.546 64.514,65.19 66.675,65.19 66.675,64.029 64.514,64.029 64.514,62.226 66.817,62.226 66.817,61.053 63.102,61.053 63.102,68.73 66.915,68.73 66.915,67.546 "
                    id="polygon103" />
               </g>
               <g
@@ -1515,7 +1376,7 @@
                    style="fill:#ffffff;fill-rule:evenodd"
                    i:knockout="Off"
                    clip-rule="evenodd"
-                   points="76.435,67.546 74.035,67.546 74.035,65.19 76.196,65.19 76.196,64.029 74.035,64.029 74.035,62.226 76.337,62.226 76.337,61.053 72.623,61.053 72.623,68.73 76.435,68.73 "
+                   points="74.035,67.546 74.035,65.19 76.196,65.19 76.196,64.029 74.035,64.029 74.035,62.226 76.337,62.226 76.337,61.053 72.623,61.053 72.623,68.73 76.435,68.73 76.435,67.546 "
                    id="polygon111" />
               </g>
               <g
@@ -1533,7 +1394,7 @@
                    style="fill:#ffffff;fill-rule:evenodd"
                    i:knockout="Off"
                    clip-rule="evenodd"
-                   points="83.318,68.73 84.74,68.73 86.185,61.063 84.74,61.063 84.044,66.135 83.296,61.063 81.797,61.063 "
+                   points="81.797,61.063 83.318,68.73 84.74,68.73 86.185,61.063 84.74,61.063 84.044,66.135 83.296,61.063 "
                    id="polygon119" />
               </g>
               <g
@@ -1542,7 +1403,7 @@
                    style="fill:#ffffff;fill-rule:evenodd"
                    i:knockout="Off"
                    clip-rule="evenodd"
-                   points="90.518,67.546 88.118,67.546 88.118,65.19 90.279,65.19 90.279,64.029 88.118,64.029 88.118,62.226 90.419,62.226 90.419,61.053 86.706,61.053 86.706,68.73 90.518,68.73 "
+                   points="88.118,67.546 88.118,65.19 90.279,65.19 90.279,64.029 88.118,64.029 88.118,62.226 90.419,62.226 90.419,61.053 86.706,61.053 86.706,68.73 90.518,68.73 90.518,67.546 "
                    id="polygon123" />
               </g>
               <g
