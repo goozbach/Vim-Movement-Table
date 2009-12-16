@@ -462,7 +462,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.889"
-     inkscape:cx="500"
+     inkscape:cx="510.68616"
      inkscape:cy="500"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -1146,5 +1146,20 @@
          y="461.10751"
          style="text-align:center;text-anchor:middle;stroke-width:2"
          id="tspan4180">Beginning of Paragraph</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4184"
+       style="font-size:56;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"><flowRegion
+         id="flowRegion4186"><rect
+           id="rect4188"
+           width="1001.1249"
+           height="100.11249"
+           x="0"
+           y="0"
+           style="-inkscape-font-specification:Nimbus Sans L;font-family:Nimbus Sans L;font-size:56" /></flowRegion><flowPara
+         id="flowPara4190">Vim Movement Table</flowPara></flowRoot>    <path
+       style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 220,70 560,0 0,0 0,0 0,0"
+       id="path4192" />
   </g>
 </svg>
