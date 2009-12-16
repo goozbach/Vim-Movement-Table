@@ -2,15 +2,17 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1000"
-   height="1000"
+   height="850"
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
@@ -20,54 +22,54 @@
     <marker
        inkscape:stockid="Arrow2Send"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow2Send"
-       style="overflow:visible;">
+       style="overflow:visible">
       <path
          id="path3636"
-         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Mend"
-       style="overflow:visible;">
+       style="overflow:visible">
       <path
          id="path3612"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
-         transform="scale(0.4) rotate(180) translate(10,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Lend"
-       style="overflow:visible;">
+       style="overflow:visible">
       <path
          id="path3606"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
-         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
        inkscape:stockid="TriangleOutL"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="TriangleOutL"
        style="overflow:visible">
       <path
          id="path3746"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
-         transform="scale(0.8)" />
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.8,0.8)" />
     </marker>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
@@ -453,6 +455,30 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4228"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2973"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <clipPath
+       id="XMLID_3_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         xlink:href="#XMLID_1_"
+         id="use25" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -462,7 +488,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.889"
-     inkscape:cx="500"
+     inkscape:cx="405.51181"
      inkscape:cy="500"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -501,11 +527,11 @@
      inkscape:label="keys"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-52.362183)"
+     transform="translate(0,-202.36218)"
      style="display:inline">
     <g
        id="g5806"
-       transform="translate(54,-100)">
+       transform="translate(54,50)">
       <path
          id="path3598"
          d="m 500,552.36218 40,0 0,0 0,0 0,0 0,0"
@@ -527,126 +553,126 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="682.4375"
-       y="462.36218"
+       y="612.36218"
        id="text5816-6-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-0"
          x="682.4375"
-         y="462.36218">w</tspan></text>
+         y="612.36218">w</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="253.5"
-       y="418.36218"
+       y="568.36218"
        id="text5816-6-13"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-01"
          x="253.5"
-         y="418.36218">-</tspan></text>
+         y="568.36218">-</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="553.98132"
-       y="542.36224"
+       y="692.36224"
        id="text5816-6-63"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-3"
          x="553.98132"
-         y="542.36224">j</tspan></text>
+         y="692.36224">j</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="784.3125"
-       y="462.36218"
+       y="612.36218"
        id="text5816-6-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-23"
          x="784.3125"
-         y="462.36218">)</tspan></text>
+         y="612.36218">)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="733.375"
-       y="462.36218"
+       y="612.36218"
        id="text5816-6-55"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-77"
          x="733.375"
-         y="462.36218">$</tspan></text>
+         y="612.36218">$</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="631.5"
-       y="462.36218"
+       y="612.36218"
        id="text5816-6-66"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-84"
          x="631.5"
-         y="462.36218">l</tspan></text>
+         y="612.36218">l</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="473.50003"
-       y="464.50995"
+       y="614.50995"
        id="text5816-6-31"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-5"
          x="473.50003"
-         y="464.50995">h</tspan></text>
+         y="614.50995">h</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="373.50003"
-       y="464.50995"
+       y="614.50995"
        id="text5816-6-34"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-30"
          x="373.50003"
-         y="464.50995">^</tspan></text>
+         y="614.50995">^</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="323.5"
-       y="464.50995"
+       y="614.50995"
        id="text5816-6-89"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-49"
          x="323.5"
-         y="464.50995">0</tspan></text>
+         y="614.50995">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="273.5"
-       y="464.50995"
+       y="614.50995"
        id="text5816-6-20"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-47"
          x="273.5"
-         y="464.50995">(</tspan></text>
+         y="614.50995">(</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="223.5"
-       y="464.50995"
+       y="614.50995"
        id="text5816-6-50"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-018"
          x="223.5"
-         y="464.50995">{</tspan></text>
+         y="614.50995">{</tspan></text>
     <g
        id="g6319"
-       transform="translate(125.19225,-146)">
+       transform="translate(125.19225,4)">
       <text
          sodipodi:linespacing="125%"
          id="text5816-6"
@@ -683,7 +709,7 @@
     </g>
     <g
        id="g6373"
-       transform="translate(65.192247,-113.21155)">
+       transform="translate(65.192247,36.78845)">
       <text
          sodipodi:linespacing="125%"
          id="text5816-5"
@@ -720,7 +746,7 @@
     </g>
     <g
        id="g6229"
-       transform="translate(-12.000012,-100)">
+       transform="translate(-12.000012,50)">
       <text
          sodipodi:linespacing="125%"
          id="text5816-6-88"
@@ -747,7 +773,7 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="553.98132"
-       y="232.36224"
+       y="382.36224"
        id="text5812"
        sodipodi:linespacing="125%"><desc
          id="desc2963">Move to the top of the document. (first character of first line)</desc><title
@@ -755,10 +781,10 @@
          sodipodi:role="line"
          id="tspan5814"
          x="553.98132"
-         y="232.36224">gg</tspan></text>
+         y="382.36224">gg</tspan></text>
     <g
        id="g6289"
-       transform="translate(55.377794,125.45514)">
+       transform="translate(55.377794,275.45514)">
       <g
          id="g5903">
         <text
@@ -800,16 +826,16 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="553.98132"
-       y="386.36218"
+       y="536.36218"
        id="text5816-6-29"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-57"
          x="553.98132"
-         y="386.36218">k</tspan></text>
+         y="536.36218">k</tspan></text>
     <g
        id="g6260"
-       transform="translate(65.192247,126.78846)">
+       transform="translate(65.192247,276.78846)">
       <text
          sodipodi:linespacing="125%"
          id="text5824-5"
@@ -846,7 +872,7 @@
     </g>
     <g
        id="g6381"
-       transform="translate(55.192247,-124.54486)">
+       transform="translate(55.192247,25.45514)">
       <text
          sodipodi:linespacing="125%"
          id="text5816-6-85"
@@ -885,291 +911,293 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="423.50003"
-       y="464.50995"
+       y="614.50995"
        id="text5816-6-34-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5818-0-30-3"
          x="423.50003"
-         y="464.50995">b</tspan></text>
+         y="614.50995">b</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="labels"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-150)">
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
        x="286.37311"
-       y="172.03229"
+       y="322.03229"
        id="text2965"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="286.37311"
-         y="172.03229"
+         y="322.03229"
          id="tspan2969">Start of the File</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
        x="214"
-       y="223.3656"
+       y="373.3656"
        id="text2965-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="214"
-         y="223.3656"
+         y="373.3656"
          id="tspan2969-3">Back (up) a Full Screen</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
        x="358.32626"
-       y="326.03223"
+       y="476.03223"
        id="text2965-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="358.32626"
-         y="326.03223"
+         y="476.03223"
          id="tspan2969-1">Up One Line</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
        x="214"
-       y="274.69891"
+       y="424.69891"
        id="text2965-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="214"
-         y="274.69891"
+         y="424.69891"
          id="tspan2969-19">Back (up) a Half Screen</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="187.27774"
-       y="707.70685"
+       x="81.211647"
+       y="813.77136"
        id="text2965-6-5"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="187.27774"
-         y="707.70685"
+         x="81.211647"
+         y="813.77136"
          id="tspan2969-19-1"
          style="stroke-width:2">Forward (right) One Character</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="223.2957"
-       y="743.7254"
+       x="117.22959"
+       y="849.78992"
        id="text2965-6-5-7"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="223.2957"
-         y="743.7254"
+         x="117.22959"
+         y="849.78992"
          id="tspan2969-19-1-8"
          style="stroke-width:2">Forward One Word</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="260.21545"
-       y="780.64569"
+       x="154.14935"
+       y="886.71021"
        id="text2965-6-5-7-1"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="260.21545"
-         y="780.64569"
+         x="154.14935"
+         y="886.71021"
          id="tspan2969-19-1-8-6"
          style="stroke-width:2">End of Line</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="295.33224"
-       y="815.76184"
+       x="189.26611"
+       y="921.82635"
        id="text2965-6-5-7-1-8"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="295.33224"
-         y="815.76184"
+         x="189.26611"
+         y="921.82635"
          id="tspan2969-19-1-8-6-4"
          style="stroke-width:2">End of Sentance </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="427.15503"
-       y="851.91364"
+       x="321.0889"
+       y="957.97815"
        id="text2965-6-5-7-1-8-0"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="427.15503"
-         y="851.91364"
+         x="321.0889"
+         y="957.97815"
          style="text-align:center;text-anchor:middle;stroke-width:2"
          id="tspan3951">End of Paragraph</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
        x="146"
-       y="333.43222"
+       y="483.43222"
        id="text2965-2-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="146"
-         y="333.43222"
+         y="483.43222"
          id="tspan2969-1-3">Beginning of</tspan><tspan
          sodipodi:role="line"
          x="146"
-         y="358.43222"
+         y="508.43222"
          id="tspan3978">Previous Line</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
        x="616"
-       y="480"
+       y="630"
        id="text2965-2-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="616"
-         y="480"
+         y="630"
          id="tspan2969-1-1">Down One Line</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
        x="616"
-       y="636.85223"
+       y="786.85223"
        id="text2965-2-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="616"
-         y="636.85223"
+         y="786.85223"
          id="tspan2969-1-34">End of the File (last line)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
        x="616"
-       y="585.31891"
+       y="735.31891"
        id="text2965-2-42"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="616"
-         y="585.31891"
+         y="735.31891"
          id="tspan2969-1-7">Forward (down) a Full Screen</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
        x="616"
-       y="533.9856"
+       y="683.9856"
        id="text2965-2-08"
        sodipodi:linespacing="125%"
        inkscape:transform-center-x="65.760938"
        inkscape:transform-center-y="-58.347773"><tspan
          sodipodi:role="line"
          x="616"
-         y="533.9856"
+         y="683.9856"
          id="tspan2969-1-78">Forward (down) a Half Screen</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-272.13004"
-       y="643.18451"
+       x="-378.19617"
+       y="749.24902"
        id="text2965-2-0-9"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-272.13004"
-         y="643.18451"
+         x="-378.19617"
+         y="749.24902"
          id="tspan2969-1-1-5"
          style="stroke-width:2">Back (left) One Character</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-166.34801"
-       y="609.44025"
+       x="-272.41409"
+       y="715.50476"
        id="text2965-2-0-9-1"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-166.34801"
-         y="609.44025"
+         x="-272.41409"
+         y="715.50476"
          id="tspan2969-1-1-5-7"
          style="stroke-width:2">Back One Word</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-246.68298"
-       y="572.35406"
+       x="-352.74911"
+       y="678.41858"
        id="text2965-2-0-9-1-3"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-246.68298"
-         y="572.35406"
+         x="-352.74911"
+         y="678.41858"
          style="text-align:center;text-anchor:middle;stroke-width:2"
          id="tspan4099">First (nonspace) Character on Line</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-180.10503"
-       y="536.99878"
+       x="-286.17111"
+       y="643.06329"
        id="text2965-2-0-9-1-3-9"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-180.10503"
-         y="536.99878"
+         x="-286.17111"
+         y="643.06329"
          style="text-align:center;text-anchor:middle;stroke-width:2"
          id="tspan4099-3">Beginning of Line</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-239.44473"
-       y="501.64392"
+       x="-345.51083"
+       y="607.7085"
        id="text2965-2-0-9-1-3-9-5"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-239.44473"
-         y="501.64392"
+         x="-345.51083"
+         y="607.7085"
          style="text-align:center;text-anchor:middle;stroke-width:2"
          id="tspan4099-3-9">Beginning of Sentance</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-281.57199"
-       y="466.76437"
+       x="-387.63812"
+       y="572.82916"
        id="text2965-2-0-9-1-3-9-5-2"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-281.57199"
-         y="466.76437"
+         x="-387.63812"
+         y="572.82916"
          style="text-align:center;text-anchor:middle;stroke-width:2"
          id="tspan4180">Beginning of Paragraph</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4184"
-       style="font-size:56;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"><flowRegion
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       transform="translate(0,150)"><flowRegion
          id="flowRegion4186"><rect
            id="rect4188"
            width="1001.1249"
            height="100.11249"
            x="0"
            y="0"
-           style="-inkscape-font-specification:Nimbus Sans L;font-family:Nimbus Sans L;font-size:56" /></flowRegion><flowPara
+           style="font-size:56px;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L" /></flowRegion><flowPara
          id="flowPara4190">Vim Movement Table</flowPara></flowRoot>    <path
        style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 220,70 560,0 0,0 0,0 0,0"
+       d="m 220,220 560,0 0,0 0,0 0,0"
        id="path4192" />
     <path
-       style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 50,750 900,0"
+       style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:1.0434984;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 10,918 980,0"
        id="path4194" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4196"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       transform="translate(-48,2)"><flowRegion
+       transform="translate(-88,162)"><flowRegion
          id="flowRegion4198"><rect
            id="rect4200"
            width="800"
@@ -1179,5 +1207,421 @@
            style="font-size:18px;text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara4202">© 2009 Derek Carter -- http://blog.friocorte.com/</flowPara><flowPara
          id="flowPara4206">Licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 License</flowPara><flowPara
-         id="flowPara4208">http://creativecommons.org/licenses/by-nc-sa/3.0/us/</flowPara></flowRoot>  </g>
+         id="flowPara4208">http://creativecommons.org/licenses/by-nc-sa/3.0/us/</flowPara></flowRoot>    <switch
+       transform="matrix(1.6964375,0,0,1.6964375,826,869.73749)"
+       id="switch6">
+      <foreignObject
+         requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="foreignObject8">
+        <i:pgfRef
+           xlink:href="#adobe_illustrator_pgf" />
+      </foreignObject>
+      <g
+         i:extraneous="self"
+         id="g10">
+        <g
+           id="Background"
+           i:layer="yes"
+           i:dimmedPercent="100"
+           i:rgbTrio="#4F008000FFFF" />
+        <g
+           id="Guides"
+           i:layer="yes"
+           i:dimmedPercent="100"
+           i:rgbTrio="#4F008000FFFF" />
+        <g
+           id="Foreground"
+           i:layer="yes"
+           i:dimmedPercent="100"
+           i:rgbTrio="#4F008000FFFF">
+          <g
+             id="g15">
+            <g
+               id="g17">
+              <g
+                 id="g19">
+                <defs
+                   id="defs21">
+                  <path
+                     id="XMLID_1_"
+                     d="m 9.388,39.651 h 82.725 c 2.284,0 4.136,1.733 4.136,3.871 V 69.65 l -91,10e-4 0.003,-26.129 C 5.251,41.384 7.104,39.651 9.388,39.651 z" />
+                </defs>
+                <clipPath
+                   id="clipPath2990">
+                  <use
+                     height="1052.3622"
+                     width="744.09448"
+                     y="0"
+                     x="0"
+                     xlink:href="#XMLID_1_"
+                     id="use2992" />
+                </clipPath>
+                <g
+                   clip-path="url(#XMLID_3_)"
+                   id="g27">
+                  <circle
+                     d="m 100.21,50.105 c 0,27.672227 -22.432773,50.105 -50.105,50.105 C 22.432772,100.21 0,77.777227 0,50.105 0,22.432772 22.432772,0 50.105,0 77.777227,0 100.21,22.432772 100.21,50.105 z"
+                     style="fill:#a5b2ac;fill-rule:evenodd"
+                     sodipodi:ry="50.105"
+                     sodipodi:rx="50.105"
+                     sodipodi:cy="50.105"
+                     sodipodi:cx="50.105"
+                     i:knockout="Off"
+                     clip-rule="evenodd"
+                     cx="50.105"
+                     cy="50.105"
+                     r="50.105"
+                     id="circle29" />
+                  <circle
+                     d="m 93.946999,50.105 c 0,24.213267 -19.628732,43.841999 -43.841999,43.841999 -24.213268,0 -43.8419995,-19.628732 -43.8419995,-43.841999 0,-24.213268 19.6287315,-43.8419995 43.8419995,-43.8419995 24.213267,0 43.841999,19.6287315 43.841999,43.8419995 z"
+                     style="fill:#c7d1c9;fill-rule:evenodd"
+                     sodipodi:ry="43.841999"
+                     sodipodi:rx="43.841999"
+                     sodipodi:cy="50.105"
+                     sodipodi:cx="50.105"
+                     i:knockout="Off"
+                     clip-rule="evenodd"
+                     cx="50.105"
+                     cy="50.105"
+                     r="43.841999"
+                     id="circle31" />
+                  <circle
+                     d="m 87.685001,50.105 c 0,20.754861 -16.82514,37.580001 -37.580001,37.580001 -20.754862,0 -37.580002,-16.82514 -37.580002,-37.580001 0,-20.754862 16.82514,-37.580002 37.580002,-37.580002 20.754861,0 37.580001,16.82514 37.580001,37.580002 z"
+                     style="fill:#d0d8d1;fill-rule:evenodd"
+                     sodipodi:ry="37.580002"
+                     sodipodi:rx="37.580002"
+                     sodipodi:cy="50.105"
+                     sodipodi:cx="50.105"
+                     i:knockout="Off"
+                     clip-rule="evenodd"
+                     cx="50.105"
+                     cy="50.105"
+                     r="37.580002"
+                     id="circle33" />
+                  <circle
+                     d="m 81.421,50.105 c 0,17.295349 -14.020651,31.316 -31.316,31.316 -17.29535,0 -31.316,-14.020651 -31.316,-31.316 0,-17.29535 14.02065,-31.316 31.316,-31.316 17.295349,0 31.316,14.02065 31.316,31.316 z"
+                     style="fill:#d9e0da;fill-rule:evenodd"
+                     sodipodi:ry="31.316"
+                     sodipodi:rx="31.316"
+                     sodipodi:cy="50.105"
+                     sodipodi:cx="50.105"
+                     i:knockout="Off"
+                     clip-rule="evenodd"
+                     cx="50.105"
+                     cy="50.105"
+                     r="31.316"
+                     id="circle35" />
+                  <circle
+                     d="m 75.157999,50.105 c 0,13.836389 -11.21661,25.052999 -25.052999,25.052999 -13.83639,0 -25.053,-11.21661 -25.053,-25.052999 0,-13.83639 11.21661,-25.053 25.053,-25.053 13.836389,0 25.052999,11.21661 25.052999,25.053 z"
+                     style="fill:#e3e8e3;fill-rule:evenodd"
+                     sodipodi:ry="25.052999"
+                     sodipodi:rx="25.052999"
+                     sodipodi:cy="50.105"
+                     sodipodi:cx="50.105"
+                     i:knockout="Off"
+                     clip-rule="evenodd"
+                     cx="50.105"
+                     cy="50.105"
+                     r="25.052999"
+                     id="circle37" />
+                  <circle
+                     d="m 68.895,50.105 c 0,10.37743 -8.41257,18.79 -18.79,18.79 -10.377431,0 -18.790001,-8.41257 -18.790001,-18.79 0,-10.377431 8.41257,-18.790001 18.790001,-18.790001 10.37743,0 18.79,8.41257 18.79,18.790001 z"
+                     style="fill:#ecf0ed;fill-rule:evenodd"
+                     sodipodi:ry="18.790001"
+                     sodipodi:rx="18.790001"
+                     sodipodi:cy="50.105"
+                     sodipodi:cx="50.105"
+                     i:knockout="Off"
+                     clip-rule="evenodd"
+                     cx="50.105"
+                     cy="50.105"
+                     r="18.790001"
+                     id="circle39" />
+                  <circle
+                     d="m 62.631,50.105 c 0,6.917918 -5.608082,12.526 -12.526,12.526 -6.917919,0 -12.526,-5.608082 -12.526,-12.526 0,-6.917919 5.608081,-12.526 12.526,-12.526 6.917918,0 12.526,5.608081 12.526,12.526 z"
+                     style="fill:#f5f7f5;fill-rule:evenodd"
+                     sodipodi:ry="12.526"
+                     sodipodi:rx="12.526"
+                     sodipodi:cy="50.105"
+                     sodipodi:cx="50.105"
+                     i:knockout="Off"
+                     clip-rule="evenodd"
+                     cx="50.105"
+                     cy="50.105"
+                     r="12.526"
+                     id="circle41" />
+                  <circle
+                     d="m 56.368,50.105 c 0,3.458959 -2.804041,6.263 -6.263,6.263 -3.45896,0 -6.263,-2.804041 -6.263,-6.263 0,-3.45896 2.80404,-6.263 6.263,-6.263 3.458959,0 6.263,2.80404 6.263,6.263 z"
+                     style="fill:#ffffff;fill-rule:evenodd"
+                     sodipodi:ry="6.263"
+                     sodipodi:rx="6.263"
+                     sodipodi:cy="50.105"
+                     sodipodi:cx="50.105"
+                     i:knockout="Off"
+                     clip-rule="evenodd"
+                     cx="50.105"
+                     cy="50.105"
+                     r="6.263"
+                     id="circle43" />
+                </g>
+                <use
+                   height="1052.3622"
+                   width="744.09448"
+                   y="0"
+                   x="0"
+                   style="fill:none;stroke:#000000;stroke-miterlimit:3.86369991"
+                   xlink:href="#XMLID_1_"
+                   clip-rule="evenodd"
+                   stroke-miterlimit="3.8637"
+                   id="use45" />
+              </g>
+            </g>
+            <g
+               id="g47">
+              <g
+                 id="g49">
+                <polygon
+                   i:knockout="Off"
+                   points="5.251,59.651 5.251,59.651 96.251,59.651 96.251,69.651 5.251,69.651 "
+                   id="polygon51" />
+                <path
+                   i:knockout="Off"
+                   d="M 50.751,64.651"
+                   id="path53" />
+              </g>
+            </g>
+            <g
+               id="g55">
+              <g
+                 id="g57">
+                <path
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   d="m 6.033,67.145 c 0,1.293 0.923,1.748 2.128,1.748 0.521,0 1.401,-0.075 1.825,-0.76 0.25,-0.402 0.25,-0.825 0.25,-1.51 0,-0.618 0,-0.857 -0.206,-1.205 C 9.867,65.136 9.573,64.864 9.302,64.668 L 7.912,63.724 C 7.608,63.518 7.467,63.377 7.467,62.736 c 0,-0.618 0.271,-0.76 0.651,-0.76 0.619,0 0.619,0.412 0.619,0.782 v 0.553 h 1.401 v -0.76 c 0,-1.313 -1.129,-1.65 -1.955,-1.65 -0.739,0 -1.26,0.217 -1.542,0.456 -0.5,0.413 -0.554,0.988 -0.554,1.586 0,0.781 0.195,1.313 0.912,1.802 l 1.347,0.902 c 0.369,0.249 0.478,0.478 0.478,1.021 0,0.684 0,1.141 -0.695,1.141 -0.684,0 -0.684,-0.445 -0.684,-0.891 V 66.026 H 6.033 v 1.119 z"
+                   id="path59" />
+              </g>
+              <g
+                 id="g61">
+                <path
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   d="m 15.054,62.833 c 0,-0.738 -0.131,-1.141 -0.511,-1.455 -0.358,-0.293 -0.901,-0.478 -1.597,-0.478 -0.869,0 -1.444,0.271 -1.737,0.587 -0.392,0.412 -0.401,0.987 -0.401,1.313 v 4.29 c 0,0.977 0.424,1.802 2.15,1.802 0.51,0 1.227,-0.064 1.683,-0.542 0.304,-0.305 0.413,-0.695 0.413,-1.26 v -4.257 z m -1.423,4.051 c 0,0.37 0,0.901 -0.695,0.901 -0.694,0 -0.717,-0.5 -0.717,-0.934 v -3.866 c 0,-0.424 0,-1.01 0.728,-1.01 0.685,0 0.685,0.554 0.685,0.956 v 3.953 z"
+                   id="path63" />
+              </g>
+              <g
+                 id="g65">
+                <polygon
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   points="17.093,68.73 16.985,62.084 18.244,68.73 19.569,68.73 20.807,62.084 20.676,68.73 22.078,68.73 22.078,61.063 19.808,61.063 18.906,66.428 17.994,61.063 15.703,61.063 15.703,68.73 "
+                   id="polygon67" />
+              </g>
+              <g
+                 id="g69">
+                <polygon
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   points="26.685,67.546 24.285,67.546 24.285,65.19 26.446,65.19 26.446,64.029 24.285,64.029 24.285,62.226 26.587,62.226 26.587,61.053 22.873,61.053 22.873,68.73 26.685,68.73 "
+                   id="polygon71" />
+              </g>
+              <g
+                 id="g73">
+                <path
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   d="m 29.466,68.73 h 1.411 v -3.377 h 0.674 c 0.738,0 0.738,0.369 0.738,0.891 v 1.641 c 0,0.228 0.044,0.554 0.207,0.846 h 1.553 c -0.294,-0.238 -0.326,-0.64 -0.326,-1.03 v -1.564 c 0,-1.031 -0.705,-1.238 -1.043,-1.325 0.685,-0.151 0.988,-0.326 0.988,-1.304 v -0.824 c 0,-0.706 0,-1.629 -1.379,-1.629 h -2.823 v 7.675 z m 1.411,-6.569 h 0.739 c 0.314,0 0.651,0 0.651,0.63 v 0.728 c 0,0.391 -0.011,0.738 -0.651,0.738 h -0.739 v -2.096 z"
+                   id="path75" />
+              </g>
+              <g
+                 id="g77">
+                <rect
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   x="34.730999"
+                   y="61.063"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   width="1.4"
+                   height="7.6669998"
+                   id="rect79" />
+              </g>
+              <g
+                 id="g81">
+                <path
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   d="m 41.003,63.54 v -1.118 c 0,-0.479 -0.141,-0.891 -0.575,-1.173 -0.456,-0.294 -1.118,-0.348 -1.466,-0.348 -2.118,0 -2.184,1.292 -2.184,2.062 v 4.366 c 0,1.271 0.978,1.563 1.662,1.563 0.814,0 1.15,-0.391 1.357,-0.618 v 0.455 h 1.205 v -4.158 h -2.291 v 1.15 h 0.879 v 1.195 c 0,0.368 0,0.891 -0.706,0.891 -0.499,0 -0.673,-0.262 -0.673,-0.771 v -4.04 c 0,-0.412 0,-0.988 0.717,-0.988 0.662,0 0.662,0.424 0.662,0.804 v 0.728 h 1.413 z"
+                   id="path83" />
+              </g>
+              <g
+                 id="g85">
+                <polygon
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   points="43.259,65.223 44.552,65.223 44.552,68.73 45.963,68.73 45.963,61.063 44.552,61.063 44.552,64.083 43.259,64.083 43.259,61.063 41.848,61.063 41.848,68.73 43.259,68.73 "
+                   id="polygon87" />
+              </g>
+              <g
+                 id="g89">
+                <polygon
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   points="50.555,61.063 46.309,61.063 46.309,62.171 47.72,62.171 47.72,68.73 49.143,68.73 49.143,62.171 50.555,62.171 "
+                   id="polygon91" />
+              </g>
+              <g
+                 id="g93">
+                <path
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   d="m 50.782,67.145 c 0,1.293 0.923,1.748 2.128,1.748 0.521,0 1.401,-0.075 1.825,-0.76 0.25,-0.402 0.25,-0.825 0.25,-1.51 0,-0.618 0,-0.857 -0.206,-1.205 -0.164,-0.282 -0.457,-0.554 -0.728,-0.75 L 52.66,63.724 c -0.304,-0.206 -0.445,-0.347 -0.445,-0.988 0,-0.618 0.271,-0.76 0.651,-0.76 0.619,0 0.619,0.412 0.619,0.782 v 0.553 h 1.4 v -0.76 c 0,-1.313 -1.129,-1.65 -1.954,-1.65 -0.739,0 -1.26,0.217 -1.542,0.456 -0.5,0.413 -0.555,0.988 -0.555,1.586 0,0.781 0.196,1.313 0.913,1.802 l 1.346,0.902 c 0.37,0.249 0.479,0.478 0.479,1.021 0,0.684 0,1.141 -0.695,1.141 -0.685,0 -0.685,-0.445 -0.685,-0.891 v -0.892 h -1.411 v 1.119 z"
+                   id="path95" />
+              </g>
+              <g
+                 id="g97">
+                <path
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   d="m 57.947,68.73 h 1.412 v -3.377 h 0.673 c 0.739,0 0.739,0.369 0.739,0.891 v 1.641 c 0,0.228 0.043,0.554 0.205,0.846 h 1.554 c -0.294,-0.238 -0.325,-0.64 -0.325,-1.03 v -1.564 c 0,-1.031 -0.707,-1.238 -1.044,-1.325 0.685,-0.151 0.989,-0.326 0.989,-1.304 v -0.824 c 0,-0.706 0,-1.629 -1.379,-1.629 h -2.824 v 7.675 z m 1.412,-6.569 h 0.738 c 0.314,0 0.651,0 0.651,0.63 v 0.728 c 0,0.391 -0.011,0.738 -0.651,0.738 h -0.738 v -2.096 z"
+                   id="path99" />
+              </g>
+              <g
+                 id="g101">
+                <polygon
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   points="66.915,67.546 64.514,67.546 64.514,65.19 66.675,65.19 66.675,64.029 64.514,64.029 64.514,62.226 66.817,62.226 66.817,61.053 63.102,61.053 63.102,68.73 66.915,68.73 "
+                   id="polygon103" />
+              </g>
+              <g
+                 id="g105">
+                <path
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   d="m 67.566,67.145 c 0,1.293 0.923,1.748 2.129,1.748 0.521,0 1.4,-0.075 1.824,-0.76 0.25,-0.402 0.25,-0.825 0.25,-1.51 0,-0.618 0,-0.857 -0.207,-1.205 -0.162,-0.282 -0.455,-0.554 -0.728,-0.75 l -1.39,-0.944 C 69.14,63.518 69,63.377 69,62.736 c 0,-0.618 0.271,-0.76 0.651,-0.76 0.619,0 0.619,0.412 0.619,0.782 v 0.553 h 1.401 v -0.76 c 0,-1.313 -1.13,-1.65 -1.955,-1.65 -0.738,0 -1.26,0.217 -1.542,0.456 -0.499,0.413 -0.554,0.988 -0.554,1.586 0,0.781 0.195,1.313 0.912,1.802 l 1.347,0.902 c 0.369,0.249 0.478,0.478 0.478,1.021 0,0.684 0,1.141 -0.695,1.141 -0.684,0 -0.684,-0.445 -0.684,-0.891 v -0.892 h -1.412 v 1.119 z"
+                   id="path107" />
+              </g>
+              <g
+                 id="g109">
+                <polygon
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   points="76.435,67.546 74.035,67.546 74.035,65.19 76.196,65.19 76.196,64.029 74.035,64.029 74.035,62.226 76.337,62.226 76.337,61.053 72.623,61.053 72.623,68.73 76.435,68.73 "
+                   id="polygon111" />
+              </g>
+              <g
+                 id="g113">
+                <path
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   d="m 77.173,68.73 h 1.412 v -3.377 h 0.673 c 0.739,0 0.739,0.369 0.739,0.891 v 1.641 c 0,0.228 0.043,0.554 0.205,0.846 h 1.554 c -0.293,-0.238 -0.326,-0.64 -0.326,-1.03 v -1.564 c 0,-1.031 -0.706,-1.238 -1.042,-1.325 0.684,-0.151 0.988,-0.326 0.988,-1.304 v -0.824 c 0,-0.706 0,-1.629 -1.379,-1.629 h -2.824 v 7.675 z m 1.412,-6.569 h 0.738 c 0.315,0 0.651,0 0.651,0.63 v 0.728 c 0,0.391 -0.011,0.738 -0.651,0.738 h -0.738 v -2.096 z"
+                   id="path115" />
+              </g>
+              <g
+                 id="g117">
+                <polygon
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   points="83.318,68.73 84.74,68.73 86.185,61.063 84.74,61.063 84.044,66.135 83.296,61.063 81.797,61.063 "
+                   id="polygon119" />
+              </g>
+              <g
+                 id="g121">
+                <polygon
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   points="90.518,67.546 88.118,67.546 88.118,65.19 90.279,65.19 90.279,64.029 88.118,64.029 88.118,62.226 90.419,62.226 90.419,61.053 86.706,61.053 86.706,68.73 90.518,68.73 "
+                   id="polygon123" />
+              </g>
+              <g
+                 id="g125">
+                <path
+                   style="fill:#ffffff;fill-rule:evenodd"
+                   i:knockout="Off"
+                   clip-rule="evenodd"
+                   d="m 91.256,68.73 h 2.27 c 1.781,0 1.943,-0.999 1.943,-2.062 v -3.584 c 0,-0.608 -0.054,-1.13 -0.455,-1.542 -0.467,-0.479 -1.021,-0.479 -1.478,-0.479 h -2.28 v 7.667 z m 1.412,-6.548 h 0.554 c 0.619,0 0.847,0.098 0.847,0.781 v 3.823 c 0,0.282 0,0.728 -0.511,0.804 -0.119,0.022 -0.228,0.022 -0.89,0.022 v -5.43 z"
+                   id="path127" />
+              </g>
+            </g>
+            <g
+               id="g129">
+              <g
+                 id="g131">
+                <g
+                   id="g133">
+                  <ellipse
+                     d="m 58.164001,49.495998 c 0,4.124463 -3.348462,7.468 -7.479,7.468 -4.130537,0 -7.479,-3.343537 -7.479,-7.468 0,-4.124462 3.348463,-7.468 7.479,-7.468 4.130538,0 7.479,3.343538 7.479,7.468 z"
+                     style="fill:#ffffff"
+                     sodipodi:ry="7.4679999"
+                     sodipodi:rx="7.4790001"
+                     sodipodi:cy="49.495998"
+                     sodipodi:cx="50.685001"
+                     i:knockout="Off"
+                     cx="50.685001"
+                     cy="49.495998"
+                     rx="7.4790001"
+                     ry="7.4679999"
+                     id="ellipse135" />
+                  <path
+                     style="fill:#ffffff"
+                     i:knockout="Off"
+                     d="M 50.685,49.496"
+                     id="path137" />
+                </g>
+              </g>
+              <g
+                 id="g139">
+                <g
+                   id="g141">
+                  <path
+                     style="fill-rule:evenodd"
+                     i:knockout="Off"
+                     clip-rule="evenodd"
+                     d="m 50.74,41.167 c -2.332,0 -4.384,0.862 -5.97,2.469 -1.632,1.653 -2.519,3.796 -2.519,6.031 0,2.26 0.862,4.355 2.495,5.985 1.632,1.63 3.755,2.515 5.993,2.515 2.238,0 4.407,-0.885 6.087,-2.538 1.585,-1.561 2.425,-3.633 2.425,-5.962 0,-2.305 -0.84,-4.401 -2.449,-6.008 -1.632,-1.631 -3.73,-2.492 -6.062,-2.492 z m 0.023,1.537 c 1.912,0 3.614,0.722 4.943,2.049 1.307,1.304 2.006,3.027 2.006,4.914 0,1.909 -0.677,3.586 -1.982,4.867 -1.375,1.351 -3.148,2.072 -4.967,2.072 -1.842,0 -3.568,-0.722 -4.897,-2.049 -1.329,-1.327 -2.075,-3.074 -2.075,-4.891 0,-1.84 0.746,-3.586 2.075,-4.937 1.306,-1.327 2.985,-2.025 4.897,-2.025 z"
+                     id="path143" />
+                </g>
+                <g
+                   id="g145">
+                  <path
+                     style="fill-rule:evenodd"
+                     i:knockout="Off"
+                     clip-rule="evenodd"
+                     d="M 50.654,48.254 C 50.173,47.379 49.352,47.03 48.4,47.03 c -1.386,0 -2.489,0.979 -2.489,2.636 0,1.686 1.037,2.637 2.536,2.637 0.962,0 1.782,-0.527 2.234,-1.327 l -1.055,-0.537 c -0.236,0.565 -0.595,0.734 -1.047,0.734 -0.783,0 -1.141,-0.649 -1.141,-1.507 0,-0.856 0.301,-1.507 1.141,-1.507 0.226,0 0.678,0.123 0.942,0.688 l 1.133,-0.593 z"
+                     id="path147" />
+                </g>
+                <g
+                   id="g149">
+                  <path
+                     style="fill-rule:evenodd"
+                     i:knockout="Off"
+                     clip-rule="evenodd"
+                     d="M 55.564,48.254 C 55.083,47.379 54.263,47.03 53.31,47.03 c -1.386,0 -2.488,0.979 -2.488,2.636 0,1.686 1.037,2.637 2.535,2.637 0.962,0 1.782,-0.527 2.234,-1.327 l -1.056,-0.537 c -0.235,0.565 -0.594,0.734 -1.047,0.734 -0.782,0 -1.141,-0.649 -1.141,-1.507 0,-0.856 0.303,-1.507 1.141,-1.507 0.228,0 0.68,0.123 0.943,0.688 l 1.133,-0.593 z"
+                     id="path151" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </switch>
+  </g>
 </svg>
