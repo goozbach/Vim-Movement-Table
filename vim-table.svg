@@ -462,7 +462,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.889"
-     inkscape:cx="510.68616"
+     inkscape:cx="500"
      inkscape:cy="500"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -1071,79 +1071,79 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-274.95847"
-       y="640.35614"
+       x="-272.13004"
+       y="643.18451"
        id="text2965-2-0-9"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-274.95847"
-         y="640.35614"
+         x="-272.13004"
+         y="643.18451"
          id="tspan2969-1-1-5"
          style="stroke-width:2">Back (left) One Character</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-169.17644"
-       y="606.61188"
+       x="-166.34801"
+       y="609.44025"
        id="text2965-2-0-9-1"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-169.17644"
-         y="606.61188"
+         x="-166.34801"
+         y="609.44025"
          id="tspan2969-1-1-5-7"
          style="stroke-width:2">Back One Word</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-249.51141"
-       y="569.5257"
+       x="-246.68298"
+       y="572.35406"
        id="text2965-2-0-9-1-3"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-249.51141"
-         y="569.5257"
+         x="-246.68298"
+         y="572.35406"
          style="text-align:center;text-anchor:middle;stroke-width:2"
          id="tspan4099">First (nonspace) Character on Line</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-182.93346"
-       y="534.17041"
+       x="-180.10503"
+       y="536.99878"
        id="text2965-2-0-9-1-3-9"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-182.93346"
-         y="534.17041"
+         x="-180.10503"
+         y="536.99878"
          style="text-align:center;text-anchor:middle;stroke-width:2"
          id="tspan4099-3">Beginning of Line</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-242.27316"
-       y="498.81549"
+       x="-239.44473"
+       y="501.64392"
        id="text2965-2-0-9-1-3-9-5"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-242.27316"
-         y="498.81549"
+         x="-239.44473"
+         y="501.64392"
          style="text-align:center;text-anchor:middle;stroke-width:2"
          id="tspan4099-3-9">Beginning of Sentance</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
-       x="-275.91513"
-       y="461.10751"
+       x="-281.57199"
+       y="466.76437"
        id="text2965-2-0-9-1-3-9-5-2"
        sodipodi:linespacing="125%"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"><tspan
          sodipodi:role="line"
-         x="-275.91513"
-         y="461.10751"
+         x="-281.57199"
+         y="466.76437"
          style="text-align:center;text-anchor:middle;stroke-width:2"
          id="tspan4180">Beginning of Paragraph</tspan></text>
     <flowRoot
@@ -1161,5 +1161,23 @@
        style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 220,70 560,0 0,0 0,0 0,0"
        id="path4192" />
-  </g>
+    <path
+       style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 50,750 900,0"
+       id="path4194" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4196"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       transform="translate(-48,2)"><flowRegion
+         id="flowRegion4198"><rect
+           id="rect4200"
+           width="800"
+           height="90"
+           x="100"
+           y="760"
+           style="font-size:18px;text-align:start;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4202">© 2009 Derek Carter -- http://blog.friocorte.com/</flowPara><flowPara
+         id="flowPara4206">Licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 License</flowPara><flowPara
+         id="flowPara4208">http://creativecommons.org/licenses/by-nc-sa/3.0/us/</flowPara></flowRoot>  </g>
 </svg>
