@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="vim-table.svg">
+   sodipodi:docname="vim-table.png">
   <defs
      id="defs4">
     <marker
@@ -487,9 +487,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.889"
-     inkscape:cx="405.51181"
-     inkscape:cy="500"
+     inkscape:zoom="1.0647059"
+     inkscape:cx="500"
+     inkscape:cy="425"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -519,7 +519,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -531,27 +531,28 @@
      style="display:inline">
     <g
        id="g5806"
-       transform="translate(54,50)">
+       transform="translate(54,50)"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          id="path3598"
          d="m 500,552.36218 40,0 0,0 0,0 0,0 0,0"
-         style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:8.94427204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Send)" />
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Send)" />
       <path
          id="path4646"
          d="m 500,552.36218 0,40"
-         style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:8.94427204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Send-5)" />
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Send-5)" />
       <path
          id="path4840"
          d="m 500,552.36218 -40,0"
-         style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:8.94427204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Send-5)" />
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Send-5)" />
       <path
          id="path5612"
          d="m 500,552.36218 0,-40"
-         style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:8.94427204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Send-5)" />
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Arrow2Send-5)" />
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="682.4375"
        y="612.36218"
        id="text5816-6-2"
@@ -562,7 +563,7 @@
          y="612.36218">w</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="253.5"
        y="568.36218"
        id="text5816-6-13"
@@ -573,7 +574,7 @@
          y="568.36218">-</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="553.98132"
        y="692.36224"
        id="text5816-6-63"
@@ -584,7 +585,7 @@
          y="692.36224">j</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="784.3125"
        y="612.36218"
        id="text5816-6-9"
@@ -595,7 +596,7 @@
          y="612.36218">)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="733.375"
        y="612.36218"
        id="text5816-6-55"
@@ -606,7 +607,7 @@
          y="612.36218">$</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="631.5"
        y="612.36218"
        id="text5816-6-66"
@@ -617,7 +618,7 @@
          y="612.36218">l</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="473.50003"
        y="614.50995"
        id="text5816-6-31"
@@ -628,7 +629,7 @@
          y="614.50995">h</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="373.50003"
        y="614.50995"
        id="text5816-6-34"
@@ -639,7 +640,7 @@
          y="614.50995">^</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="323.5"
        y="614.50995"
        id="text5816-6-89"
@@ -650,7 +651,7 @@
          y="614.50995">0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="273.5"
        y="614.50995"
        id="text5816-6-20"
@@ -661,7 +662,7 @@
          y="614.50995">(</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="223.5"
        y="614.50995"
        id="text5816-6-50"
@@ -672,13 +673,14 @@
          y="614.50995">{</tspan></text>
     <g
        id="g6319"
-       transform="translate(125.19225,4)">
+       transform="translate(125.19225,4)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
       <text
          sodipodi:linespacing="125%"
          id="text5816-6"
          y="842.36218"
          x="401.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
          xml:space="preserve"><tspan
            y="842.36218"
            x="401.5"
@@ -689,7 +691,7 @@
          id="text5816-6-38"
          y="842.36218"
          x="463.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
          xml:space="preserve"><tspan
            y="842.36218"
            x="463.5"
@@ -700,7 +702,7 @@
          id="text5824-5-2"
          y="836.48395"
          x="436.01562"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
          xml:space="preserve"><tspan
            y="836.48395"
            x="436.01562"
@@ -709,13 +711,14 @@
     </g>
     <g
        id="g6373"
-       transform="translate(65.192247,36.78845)">
+       transform="translate(65.192247,36.78845)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
       <text
          sodipodi:linespacing="125%"
          id="text5816-5"
          y="758.24042"
          x="461.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
          xml:space="preserve"><tspan
            y="758.24042"
            x="461.5"
@@ -726,7 +729,7 @@
          id="text5816-6-0"
          y="758.24042"
          x="523.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
          xml:space="preserve"><tspan
            y="758.24042"
            x="523.5"
@@ -737,41 +740,27 @@
          id="text5824-5-5"
          y="752.36218"
          x="496.01562"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
          xml:space="preserve"><tspan
            y="752.36218"
            x="496.01562"
            id="tspan5826-2-52"
            sodipodi:role="line">+</tspan></text>
     </g>
-    <g
-       id="g6229"
-       transform="translate(-12.000012,50)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text5816-6-88"
-         y="562.36218"
-         x="847.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
-         xml:space="preserve"><tspan
-           y="562.36218"
-           x="847.5"
-           id="tspan5818-0-7"
-           sodipodi:role="line">}</tspan></text>
-      <path
-         transform="translate(0,52.362183)"
-         id="path6225"
-         d="m 830.11893,516.01899 c -0.25458,-0.0882 -0.31228,-0.18248 -0.11164,-0.18248 0.12198,0 0.33647,-0.19573 1.9655,-1.79364 1.00572,-0.98651 1.98942,-1.96144 2.18599,-2.16652 l 0.35741,-0.37287 0.0111,-13.04078 c 0.0106,-12.47796 0.0145,-13.04697 0.0894,-13.18417 0.043,-0.0789 0.16881,-0.2008 0.27947,-0.27097 l 0.2012,-0.1276 12.92259,-2.6e-4 c 8.62893,-1.8e-4 12.97537,-0.0149 13.08142,-0.0444 0.12989,-0.0361 0.53275,-0.4289 2.21184,-2.15674 1.12917,-1.16195 2.08687,-2.1656 2.12824,-2.23034 0.0414,-0.0647 0.0761,-0.16229 0.0772,-0.21678 0.002,-0.0758 0.0296,-0.0481 0.11923,0.1177 l 0.11721,0.21678 0,17.27758 0,17.27757 -0.12097,0.24634 c -0.13115,0.26707 -0.31935,0.45627 -0.60645,0.60969 l -0.18306,0.0978 -17.2559,0.009 c -16.17729,0.008 -17.26927,0.004 -17.46982,-0.065 l 0,0 z m 28.79635,-5.25272 c 0.69272,-0.10019 1.2659,-0.59367 1.45982,-1.25684 0.0621,-0.21253 0.0688,-1.34975 0.0683,-11.6629 -4.4e-4,-9.8683 -0.009,-11.4598 -0.0637,-11.66476 -0.12637,-0.47486 -0.55202,-0.93113 -1.06308,-1.13953 l -0.23846,-0.0972 -11.42332,-0.0112 c -7.27237,-0.007 -11.50628,0.004 -11.65162,0.031 -0.52853,0.0977 -1.02695,0.48822 -1.26126,0.98821 l -0.11688,0.24941 -0.0112,11.56578 -0.0111,11.56578 0.091,0.27017 c 0.20706,0.61466 0.72244,1.0438 1.38559,1.15374 0.31404,0.0521 22.47761,0.0603 22.83584,0.008 l 0,0 z"
-         style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.04335652;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <path
-         transform="translate(0,52.362183)"
-         id="path6227"
-         d="m 829.32252,515.09945 c -0.046,-0.19432 -0.0541,-3.41609 -0.0434,-17.40764 l 0.0131,-17.16918 0.12807,-0.23121 c 0.15218,-0.27474 0.30848,-0.41525 0.63067,-0.56698 l 0.23846,-0.1123 17.04522,-0.0112 c 9.8235,-0.006 17.14367,0.005 17.27758,0.0274 0.13813,0.023 -6.57213,0.0407 -16.54836,0.0437 -18.39254,0.006 -17.01082,-0.0145 -17.50474,0.2543 -0.44445,0.2419 -0.82245,0.68492 -1.0364,1.21467 l -0.10043,0.24868 -0.0217,16.97408 c -0.018,14.07486 -0.0313,16.93335 -0.0782,16.73561 z"
-         style="fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.04335652;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-    </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       x="835.5"
+       y="612.36218"
+       id="text5816-6-88"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5818-0-7"
+         x="835.5"
+         y="612.36218">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="553.98132"
        y="382.36224"
        id="text5812"
@@ -784,12 +773,14 @@
          y="382.36224">gg</tspan></text>
     <g
        id="g6289"
-       transform="translate(55.377794,275.45514)">
+       transform="translate(55.377794,275.45514)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
       <g
-         id="g5903">
+         id="g5903"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
            x="471.02539"
            y="158.24042"
            id="text5816"
@@ -800,7 +791,7 @@
              y="158.24042">Ó</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
            x="533.60352"
            y="158.24042"
            id="text5820"
@@ -811,7 +802,7 @@
              y="158.24042">b</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
            x="506.01562"
            y="152.36218"
            id="text5824"
@@ -824,7 +815,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="553.98132"
        y="536.36218"
        id="text5816-6-29"
@@ -835,13 +826,14 @@
          y="536.36218">k</tspan></text>
     <g
        id="g6260"
-       transform="translate(65.192247,276.78846)">
+       transform="translate(65.192247,276.78846)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
       <text
          sodipodi:linespacing="125%"
          id="text5824-5"
          y="202.36218"
          x="496.01562"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
          xml:space="preserve"><tspan
            y="202.36218"
            x="496.01562"
@@ -852,7 +844,7 @@
          id="text5816-6-95"
          y="208.24042"
          x="523.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
          xml:space="preserve"><tspan
            y="208.24042"
            x="523.5"
@@ -863,7 +855,7 @@
          id="text5816-5-3"
          y="208.24042"
          x="461.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
          xml:space="preserve"><tspan
            y="208.24042"
            x="461.5"
@@ -872,13 +864,14 @@
     </g>
     <g
        id="g6381"
-       transform="translate(55.192247,25.45514)">
+       transform="translate(55.192247,25.45514)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
       <text
          sodipodi:linespacing="125%"
          id="text5816-6-85"
          y="718.24042"
          x="533.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
          xml:space="preserve"><tspan
            y="718.24042"
            x="533.5"
@@ -889,7 +882,7 @@
          id="text5824-5-1"
          y="712.36218"
          x="506.01562"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Monospace;-inkscape-font-specification:Monospace"
          xml:space="preserve"><tspan
            y="712.36218"
            x="506.01562"
@@ -900,7 +893,7 @@
          id="text5816-5-4"
          y="718.24042"
          x="471.5"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
          xml:space="preserve"><tspan
            y="718.24042"
            x="471.5"
@@ -909,7 +902,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:GuruKeyCaps;-inkscape-font-specification:GuruKeyCaps Medium"
        x="423.50003"
        y="614.50995"
        id="text5816-6-34-1"
@@ -1020,7 +1013,7 @@
          x="189.26611"
          y="921.82635"
          id="tspan2969-19-1-8-6-4"
-         style="stroke-width:2">End of Sentance </tspan></text>
+         style="stroke-width:2">End of Sentence </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
@@ -1159,7 +1152,7 @@
          x="-345.51083"
          y="607.7085"
          style="text-align:center;text-anchor:middle;stroke-width:2"
-         id="tspan4099-3-9">Beginning of Sentance</tspan></text>
+         id="tspan4099-3-9">Beginning of Sentence</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#2a2a2a;fill-opacity:1;stroke:#060e0e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline;font-family:Nimbus Mono L;-inkscape-font-specification:Nimbus Mono L"
@@ -1205,7 +1198,7 @@
            x="100"
            y="760"
            style="font-size:18px;text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara4202">© 2009 Derek Carter -- http://blog.friocorte.com/</flowPara><flowPara
+         id="flowPara4202">© 2009 Derek Carter -- http://blog.friocorte.com/ some rights reserved</flowPara><flowPara
          id="flowPara4206">Licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 License</flowPara><flowPara
          id="flowPara4208">http://creativecommons.org/licenses/by-nc-sa/3.0/us/</flowPara></flowRoot>    <switch
        transform="matrix(1.6964375,0,0,1.6964375,826,869.73749)"
